@@ -1,2 +1,2 @@
-# day-3-pizza-order-program>
-# Program that outputs price for pizza based on pizza size and add-ons. 
+# pizza-order-program
+Returns final price for a pizza based on size and add-ons.
